@@ -248,7 +248,7 @@ to start the exploration.
 
 ## 🎥 Project Demo
 
-[![Solar System Exploration 3D](./Assets/solar-system-demo.jpg)](https://lnkd.in/p/eHrpV8A8)
+[![Solar System Exploration 3D](./solar-system-demo.jpg)](https://lnkd.in/p/eHrpV8A8)
 
 **▶️ Watch the full project demonstration on LinkedIn**
 
