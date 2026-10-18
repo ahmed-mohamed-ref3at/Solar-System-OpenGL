@@ -1,5 +1,20 @@
 # 🚀 Solar System Exploration 3D
 
+## 🎮 Download & Play
+
+**[⬇️ Download Windows Version (v1.0.0)](https://github.com/ahmed-mohamed-ref3at/Solar-System-OpenGL/releases/tag/v1.0.0)**
+
+**[🎥 Watch Project Demo](https://lnkd.in/p/eHrpV8A8)**
+
+### Quick Start
+1. Download `Solar-System-Windows-x64.zip` from the release page.
+2. Extract the ZIP file completely.
+3. Run `$olar$ystem.exe`.
+4. Press **ENTER** or **SPACE** to start exploring.
+
+> **Compatibility:** This release contains a Windows x64 Debug build tested on the developer's machine. Compatibility with a clean Windows installation has not yet been verified.
+  
+
 An interactive **3D Solar System Exploration** project built with **C++ and OpenGL** as part of a Computer Graphics project.
 
 The application combines real-time planetary motion, interactive planet exploration, procedural terrain generation, dynamic lighting, textures, multiple camera modes, meteor effects, asteroid impacts, and cinematic exploration.
